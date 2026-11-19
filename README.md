@@ -34,7 +34,7 @@ A disciplina de IA (Prof. Jorge) fica num repositório próprio: [engman-copilot
 | Vídeo do pré-projeto (Luciana, YouTube, não listado) | https://youtu.be/tFxXDGNCXn0 |
 | Código C++ no onlinegdb (Daniel) | https://onlinegdb.com/pahTtOEJx |
 | Repositório da disciplina de IA (Jorge) | https://github.com/Fidelisss07/engman-copilot |
-| Vídeo do pitch de 1 min (Allan) | a publicar |
+| Vídeo do pitch de 1 min (Allan, YouTube, não listado) | https://youtu.be/9FMy0_B5vjE |
 
 ## Como rodar
 
@@ -44,4 +44,4 @@ A disciplina de IA (Prof. Jorge) fica num repositório próprio: [engman-copilot
 
 ## Uso de IA
 
-O grupo usou o Claude (Anthropic) como apoio na redação, nos diagramas, no código, na montagem do circuito no simulador e na animação do vídeo. A narração do vídeo da Luciana usa voz de IA (ElevenLabs). Revisão: Gustavo Fidelis.
+O grupo usou o Claude (Anthropic) como apoio na redação, nos diagramas, no código, na montagem do circuito no simulador e na animação do vídeo. A narração do vídeo da Luciana usa voz de IA (ElevenLabs); o vídeo do Allan é narrado pelo Gustavo Fidelis. Revisão: Gustavo Fidelis.
