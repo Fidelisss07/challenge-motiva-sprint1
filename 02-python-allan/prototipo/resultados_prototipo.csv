@@ -1,0 +1,7 @@
+cenario,nitidez_rel,contraste_rel,textura_ceu,saturados,km42_degradada,vizinha_degradada,sca_tempo_ruim,horas_ruim,classificacao,motivo
+A - lente com barro,0.00,0.69,0.9,0.0%,sim,não,não,6,REAL,"só esta câmera piorou, sem chuva, há 2 h ou mais → abrir chamado"
+B - teia de aranha,0.99,0.61,876.0,0.0%,sim,não,não,3,REAL,"só esta câmera piorou, sem chuva, há 2 h ou mais → abrir chamado"
+C - desfoque,0.00,0.91,0.6,0.0%,sim,não,não,12,REAL,"só esta câmera piorou, sem chuva, há 2 h ou mais → abrir chamado"
+D - neblina na região,0.00,0.33,0.2,0.0%,sim,sim,sim,3,AMBIENTAL,vizinhas também ruins ou SCA indica tempo ruim → aguardar
+E - sol na lente,0.73,1.38,0.9,29.8%,sim,não,não,0.5,AGUARDAR,ruim há pouco tempo (pode ser sol passageiro) → reavaliar
+F - tudo normal,1.00,1.00,0.6,0.2%,não,não,não,0,NORMAL,imagem dentro do padrão
